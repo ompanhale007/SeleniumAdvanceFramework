@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="C:/Users/91801/IdeaProjects/SeleniumAdvanceFramework/src/test/testNGxmls" preserve-order="true" verbose="2">
+        <classes>
+            <!-- Add your test classes here if needed -->
+        </classes>
+    </test>
+</suite>
